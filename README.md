@@ -3522,4 +3522,3 @@ Index
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on a [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 SEMEN1
-
